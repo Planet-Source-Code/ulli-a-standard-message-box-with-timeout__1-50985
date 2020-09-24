@@ -1,0 +1,1 @@
+This is a normal Message Box, but with a timer which will make it disappear after a certain amount of time. The return value depends on whether the user clicked one of the buttons (when the normal MsgBox return values are handed back) or whether the box was closed automatically - in this case a zero is returned.
